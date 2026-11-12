@@ -1,0 +1,67 @@
+client/src/i18n/locales/ko/settings.json
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 3-18
+client/src/lib/__tests__/editors.test.ts
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 1-116
+client/src/lib/editors.ts
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 1-118
+client/src/i18n/locales/vi/settings.json
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 3-18
+README-CN.md
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 337
+README-ES.md
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 335
+client/src/components/__tests__/OpenInEditor.test.tsx
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 1-145
+client/src/components/SessionCard.tsx
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 40-41,195,357-367
+wiki/index.html
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 5591-5599,7325
+ARCHITECTURE.md
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 544-545
+client/src/i18n/locales/zh/settings.json
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 3-18
+README-KO.md
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 335
+client/src/components/EditorSettings.tsx
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 1-113
+README-EN.md
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 336
+client/src/pages/SessionDetail.tsx
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 41-42,299,957-959
+README-VN.md
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 336
+client/src/components/OpenInEditor.tsx
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 1-86
+client/src/lib/paletteCommands.ts
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 576
+client/README.md
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 326-327,687
+client/src/i18n/locales/en/settings.json
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 5-20
+client/src/i18n/locales/es/settings.json
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 3-18
+client/src/pages/Sessions.tsx
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 36-37,258,860-863
+client/src/pages/Settings.tsx
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 3,16-17,32-33,359,376,2660-2661
+index.html
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 4132
+wiki/sw.js
+  s_2d1c83fbef4ec8::t_990ad8cd32a1de 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "edef41b81246f67f4ea1f9e4a5b6882c2504cdfe",
+  "prompts": {},
+  "sessions": {
+    "s_2d1c83fbef4ec8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e4a29557-cdd9-4b65-b537-8056379ca5c6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Adam Hathcock <ADH@chersoft.com>"
+    }
+  }
+}
