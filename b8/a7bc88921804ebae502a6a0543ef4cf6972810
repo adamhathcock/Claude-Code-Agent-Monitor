@@ -1,0 +1,48 @@
+README-KO.md
+  s_2d1c83fbef4ec8::t_9855637208c881 335
+wiki/index.html
+  s_2d1c83fbef4ec8::t_9855637208c881 5592-5593,7324
+client/src/pages/Dashboard.tsx
+  s_2d1c83fbef4ec8::t_95bb33170b1c8f 1726
+client/src/components/__tests__/OpenInEditor.test.tsx
+  s_2d1c83fbef4ec8::t_ceb95e5ca2a93d 4-5
+  s_2d1c83fbef4ec8::t_e2c7b81c73ebfa 140,145
+  s_2d1c83fbef4ec8::t_63e5b8894ccd96 8-136
+  s_2d1c83fbef4ec8::t_6d3c3b223149da 228-270
+wiki/sw.js
+  s_2d1c83fbef4ec8::t_4eb6f189e4a2c4 6,12
+client/README.md
+  s_2d1c83fbef4ec8::t_9855637208c881 326
+README-EN.md
+  s_2d1c83fbef4ec8::t_9855637208c881 336
+README-ES.md
+  s_2d1c83fbef4ec8::t_9855637208c881 335
+README-CN.md
+  s_2d1c83fbef4ec8::t_9855637208c881 337
+README-VN.md
+  s_2d1c83fbef4ec8::t_9855637208c881 336
+client/src/components/AgentCard.tsx
+  s_2d1c83fbef4ec8::t_c87b2113dfbf07 242-243
+  s_2d1c83fbef4ec8::t_63e5b8894ccd96 44-45
+  s_2d1c83fbef4ec8::t_1e98951b388a3d 273
+  s_2d1c83fbef4ec8::t_da0ecacb57b064 512
+  s_2d1c83fbef4ec8::t_ad2c9bcc454010 199
+wiki/i18n-content.js
+  s_2d1c83fbef4ec8::t_d1474710813c17 9-10,1524-1525,3063-3064,4552-4553
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b8a7bc88921804ebae502a6a0543ef4cf6972810",
+  "prompts": {},
+  "sessions": {
+    "s_2d1c83fbef4ec8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e4a29557-cdd9-4b65-b537-8056379ca5c6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Adam Hathcock <ADH@chersoft.com>"
+    }
+  }
+}
