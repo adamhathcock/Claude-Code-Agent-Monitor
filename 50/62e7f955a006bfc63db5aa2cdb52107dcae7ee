@@ -2,6 +2,7 @@ README-KO.md
   s_2d1c83fbef4ec8::t_9855637208c881 335
 wiki/index.html
   s_2d1c83fbef4ec8::t_9855637208c881 5593-5594
+  s_2d1c83fbef4ec8::t_acb33dd15b25e5 7325
 client/src/pages/Dashboard.tsx
   s_2d1c83fbef4ec8::t_95bb33170b1c8f 1726
 client/src/components/__tests__/OpenInEditor.test.tsx
@@ -27,6 +28,8 @@ client/src/components/AgentCard.tsx
   s_2d1c83fbef4ec8::t_ad2c9bcc454010 199
 wiki/i18n-content.js
   s_2d1c83fbef4ec8::t_d1474710813c17 9-10,1524-1525,3063-3064,4552-4553
+wiki/sw.js
+  s_2d1c83fbef4ec8::t_acb33dd15b25e5 6
 ---
 {
   "schema_version": "authorship/3.0.0",
